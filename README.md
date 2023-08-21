@@ -1,2 +1,4 @@
 # Rodrigo
-I'm currently learning HTML, CSS, JAVASCRIPT, SQL
+- 👋 Olá, sou @Rodrigocod94
+- 🌱 Atualmente estou aprendendo HTML, CSS, JAVASCRIPT, SQL, NODEJS
+
